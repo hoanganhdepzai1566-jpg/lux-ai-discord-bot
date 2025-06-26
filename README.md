@@ -33,14 +33,14 @@ Lux AI: (Jawaban dari Gemini API akan muncul di sini dalam beberapa bagian jika 
 ## 🛠️ Cara Menjalankan
 
 ### 1. Clone Repository
-```bash
+```
 git clone https://github.com/username/lux-ai-discord-bot.git
 cd lux-ai-discord-bot
 ```
 
 ### 2. Siapkan Environment
 Buat file `.env` di root folder dengan isi:
-```env
+```
 GEMINI_API_KEY=your_google_gemini_api_key
 DISCORD_TOKEN=your_discord_bot_token
 ```
@@ -48,12 +48,12 @@ DISCORD_TOKEN=your_discord_bot_token
 > ❗ Tidak boleh ada spasi setelah tanda `=`.
 
 ### 3. Install Dependencies
-```bash
+```
 pip install -r requirements.txt
 ```
 
 ### 4. Jalankan Bot
-```bash
+```
 python main.py
 ```
 
@@ -102,4 +102,4 @@ Pull request dan masukan sangat terbuka! Jangan ragu untuk fork project ini dan 
 
 ## 📄 Lisensi
 
-MIT License © 2025 — [YourName](https://github.com/yourusername)
+MIT License © 2025 — [YourName](https://github.com/Ikhsaaan334)
