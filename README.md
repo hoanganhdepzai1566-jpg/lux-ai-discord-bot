@@ -87,4 +87,4 @@ Pull request dan masukan sangat terbuka! Jangan ragu untuk fork project ini dan 
 
 ## 📄 Lisensi
 
-MIT License © 2025 — [YourName](https://github.com/Ikhsaaan334)
+MIT License © 2025 — [Ikhsaaan334](https://github.com/Ikhsaaan334)
