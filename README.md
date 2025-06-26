@@ -14,7 +14,6 @@ Lux AI adalah bot Discord cerdas yang dibangun menggunakan teknologi **Google Ge
 - 🎙️ Menjawab perintah pengguna melalui prompt `!lux`
 - 💡 Terhubung ke **Gemini API** untuk menghasilkan jawaban berbasis AI
 - 🔒 Aman melalui token environment `.env`
-- 🌐 Online 24/7 via Replit + UptimeRobot
 - 🧾 Support input panjang (otomatis dibagi per 2000 karakter)
 
 ---
