@@ -72,11 +72,12 @@ lux-ai-discord-bot/
 - [Python 3.11](https://www.python.org/)
 - [discord.py](https://discordpy.readthedocs.io/en/stable/)
 - [Google Generative AI (Gemini)](https://ai.google.dev/)
-- [Replit](https://replit.com/)
-- [UptimeRobot](https://uptimerobot.com/)
 
 ---
 
-## 📄 Lisensi
+## 📄 Notes
 
-MIT License © 2025 — [Ikhsaaan334](https://github.com/Ikhsaaan334)
+> This project uses the [Google Gemini API](https://ai.google.dev) to generate AI-based responses.  
+> Usage of the Gemini API is subject to [Google's Generative AI Terms of Service](https://cloud.google.com/terms/generative-ai).  
+> Lux AI does not distribute or modify the model itself. It only accesses Gemini through approved API usage.
+
