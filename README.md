@@ -2,12 +2,14 @@
 
 Lux AI adalah bot Discord cerdas yang dibangun menggunakan teknologi **Google Gemini (Generative AI)**. Dirancang awal untuk server **Ashura Heaven**, Lux AI hadir sebagai asisten interaktif yang mampu menjawab berbagai pertanyaan pengguna dalam bahasa natural.
 
-## DEMO VIDEO
-https://www.youtube.com/watch?v=VV0h_qiLRhQ
-
 ![Python](https://img.shields.io/badge/Python-3.11-blue?style=flat-square)
 ![Discord.py](https://img.shields.io/badge/discord.py-2.x-blueviolet?style=flat-square)
 ![Gemini API](https://img.shields.io/badge/Google%20Gemini-API-brightgreen?style=flat-square)
+
+---
+
+## DEMO VIDEO
+https://www.youtube.com/watch?v=VV0h_qiLRhQ
 
 ---
 
