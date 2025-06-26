@@ -63,7 +63,6 @@ python main.py
 lux-ai-discord-bot/
 │
 ├── main.py              # Script utama bot
-├── keep_alive.py        # Flask server untuk menjaga uptime di Replit
 ├── .env                 # File berisi token API (tidak diupload ke GitHub)
 ├── requirements.txt     # Daftar library yang dibutuhkan
 └── README.md            # Dokumentasi ini
@@ -72,16 +71,11 @@ lux-ai-discord-bot/
 
 ## 📚 Teknologi yang Digunakan
 
-
 - [Python 3.11](https://www.python.org/)
 - [discord.py](https://discordpy.readthedocs.io/en/stable/)
 - [Google Generative AI (Gemini)](https://ai.google.dev/)
 - [Replit](https://replit.com/)
 - [UptimeRobot](https://uptimerobot.com/)
-
-## 🙌 Kontribusi
-
-Pull request dan masukan sangat terbuka! Jangan ragu untuk fork project ini dan menambahkan fitur baru.
 
 ---
 
