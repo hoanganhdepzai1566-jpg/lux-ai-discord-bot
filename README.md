@@ -68,10 +68,10 @@ lux-ai-discord-bot/
 ├── requirements.txt     # Daftar library yang dibutuhkan
 └── README.md            # Dokumentasi ini
 ```
+---
 
 ## 📚 Teknologi yang Digunakan
 
----
 
 - [Python 3.11](https://www.python.org/)
 - [discord.py](https://discordpy.readthedocs.io/en/stable/)
