@@ -70,19 +70,6 @@ lux-ai-discord-bot/
 └── README.md            # Dokumentasi ini
 ```
 
----
-
-## 🌐 Deployment Online (Opsional)
-
-### Menggunakan Replit + UptimeRobot
-
-1. Upload seluruh file ke [https://replit.com](https://replit.com)
-2. Tambahkan file `keep_alive.py` dan panggil `keep_alive()` di `main.py`
-3. Jalankan project dan pastikan muncul URL publik `.repl.co`
-4. Daftarkan URL tersebut di [https://uptimerobot.com](https://uptimerobot.com) sebagai monitor setiap 5 menit.
-
----
-
 ## 📚 Teknologi yang Digunakan
 
 - [Python 3.11](https://www.python.org/)
