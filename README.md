@@ -71,13 +71,14 @@ lux-ai-discord-bot/
 
 ## 📚 Teknologi yang Digunakan
 
+```
 - [Python 3.11](https://www.python.org/)
 - [discord.py](https://discordpy.readthedocs.io/en/stable/)
 - [Google Generative AI (Gemini)](https://ai.google.dev/)
 - [Replit](https://replit.com/)
 - [UptimeRobot](https://uptimerobot.com/)
 
----
+```
 
 ## 🙌 Kontribusi
 
