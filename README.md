@@ -5,7 +5,6 @@ Lux AI adalah bot Discord cerdas yang dibangun menggunakan teknologi **Google Ge
 ![Python](https://img.shields.io/badge/Python-3.11-blue?style=flat-square)
 ![Discord.py](https://img.shields.io/badge/discord.py-2.x-blueviolet?style=flat-square)
 ![Gemini API](https://img.shields.io/badge/Google%20Gemini-API-brightgreen?style=flat-square)
-![Status](https://img.shields.io/badge/status-online-brightgreen?style=flat-square)
 
 ---
 
