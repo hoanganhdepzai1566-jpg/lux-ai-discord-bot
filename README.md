@@ -43,7 +43,7 @@ GEMINI_API_KEY=your_google_gemini_api_key
 DISCORD_TOKEN=your_discord_bot_token
 ```
 
-> ❗ Tidak boleh ada spasi setelah tanda `=`.
+> Tidak boleh ada spasi setelah tanda `=`.
 
 ### 3. Install Dependencies
 ```
