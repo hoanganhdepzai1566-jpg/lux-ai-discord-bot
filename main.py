@@ -19,7 +19,7 @@ bot = discord.Client(intents=intents)
 
 @bot.event
 async def on_ready():
-    await bot.change_presence(activity = discord.Game(name = "Aku Lux AI, Siap membantu!"))
+    await bot.change_presence(activity = discord.Game(name = "Ask me with !lux <your question>"))
     print(f'{bot.user.name} telah online!')
 
 @bot.event
@@ -37,8 +37,11 @@ async def on_message(message):
         if prompt in ["perkenalkan dirimu", "kamu siapa", "siapa kamu", "siapa kamu?"]:
             await message.channel.send("Aku Lux, AI yang awal tercipta untuk server Discord Ashura Heaven. ✨")
             return
+        if prompt in ["Siapa yang menciptakanmu?", "siapa yang menciptakanmu?"]:
+            await message.channel.send("Aku diciptakan oleh Muhammad Ikhsan Nur Rafid mahasiswa BINUS Bandung, dengan bantuan teknologi AI dari Google Gemini.")
+            return
     
-        loading = await message.channel.send("Lux sedang memproses permintaanmu...")
+        loading = await message.channel.send("Aku sedang memproses permintaanmu, sebentar yah...")
 
         try:
             model = genai.GenerativeModel("gemini-2.5-flash")
